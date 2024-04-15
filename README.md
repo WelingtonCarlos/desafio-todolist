@@ -17,7 +17,7 @@ API para gerenciar tarefas (CRUD) que faz parte [desse desafio](https://github.c
 
 ## Práticas adotadas
 
-- SOLID, DRY, YAGNI, KISS
+- SOLID
 - API REST
 - Consultas com Spring Data JPA
 - Injeção de Dependências
